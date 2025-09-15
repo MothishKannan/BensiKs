@@ -15,7 +15,7 @@
   background-position: center;
   background-size: cover;
   padding-bottom: 50px;
-  color: black;
+  color: rgb(250, 250, 250);
 }
 .container{
     max-width: 1110px;
@@ -45,15 +45,15 @@ header{
 .headwrap button{
     margin-right: 35px;
     padding:10px 20px 10px 20px;
-    background-color: rgb(3, 3, 35);
+    background-color: rgb(155, 155, 239);
     border-radius: 25px;
-    border: 2px solid orangered;
+    border: 2px solid rgb(253, 251, 251);
     color: rgb(254, 254, 254);
 }
 .headwrap nav a{
     color: rgb(254, 253, 253);
     text-decoration: none;
-    color: rgb(8, 1, 1);
+    color: rgb(254, 253, 253);
     font-size: large;
 }
 
@@ -76,12 +76,12 @@ header{
     
 }
 .headbox a{
-    background-color: rgb(1, 1, 17);
+    background-color: rgb(252, 83, 53);
     padding:10px 20px 10px 20px;
     border-radius: 25px;
     text-decoration: none;
     color: white;
-     border: 2px solid orangered;
+     border: 2px solid rgb(250, 250, 250);
     
 }
 .section2{
@@ -381,6 +381,9 @@ header{
   text-align: center;
   margin: 0 auto;
   border-radius: 30px;
+}
+.head > h1{
+    font-size: 10px;
 }
 
 
